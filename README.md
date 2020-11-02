@@ -3,6 +3,8 @@ Logical Rhythm 2020 kaggle problem on Classification.
 
 Kaggle problem based on Classification .
 Link to problem:https://www.kaggle.com/c/Tow-Mater-Labs
+Evaluation on basis of f1-score:
+got best score as 0.63623 (Rank: 9/21)
 
 Applied SMOTE,ADA,SMOTEENN etc for over-sampling.
 Applied various model such as Logistic Regression,Random forest classifier and xgboost regressor with lots of hyper paramter tuning.
